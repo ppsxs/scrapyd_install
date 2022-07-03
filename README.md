@@ -7,3 +7,5 @@ scrapyd安装脚本
 ```bash
 wget https://raw.githubusercontent.com/ppsxs/scrapyd_install/main/scrapyd_install_centos7.sh && bash scrapyd_install_centos7.sh
 ```
+## 添加账号密码
+`/etc/scrapyd/scrapyd.conf`
