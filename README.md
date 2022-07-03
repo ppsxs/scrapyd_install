@@ -5,5 +5,5 @@ scrapyd安装脚本
 
 ## 脚本
 ```bash
-wget https://github.com/ppsxs/scrapyd_install/blob/main/scrapyd_install_centos7.sh && bash scrapyd_install_centos7.sh
+wget https://raw.githubusercontent.com/ppsxs/scrapyd_install/main/scrapyd_install_centos7.sh && bash scrapyd_install_centos7.sh
 ```
